@@ -1,4 +1,4 @@
-#LISTs & methods---//DAY-3//
+#LISTs. & methods---//DAY-3//
 
 #Acessing list items
 list0 = ['apple', 'banana', 'kiwi', 'peach', 'pear', 'lemon']
