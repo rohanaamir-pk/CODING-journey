@@ -1,4 +1,4 @@
-
+#Dictionary & methods---//DAY-6//
 
 #simpole dictioary
 dog = {
